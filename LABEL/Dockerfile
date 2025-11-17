@@ -1,5 +1,5 @@
 FROM almalinux:9
 LABEL COURSE="DevOps" \ 
-      TRAINER="pryaksha" \
+      TRAINER="Sivakumar" \
       DURATION="120HRS" \
-      com.gmail.dockerfile.author="dgulladurthi@gmail.com"
+      com.joindevops.dockerfile.author="siva@joindevops.com"
